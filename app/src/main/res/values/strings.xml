@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EclectusAndroid</string>
+
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="ok">OK</string>
+    <string name="or">or</string>
+    <string name="log_out">Log out</string>
+
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="invalid_email_message">Invalid email address</string>
+    <string name="password_minimum_length_message">Password must be at least %1$d characters in length</string>
+    <string name="password_does_not_match">Password doesn\'t match</string>
+</resources>
